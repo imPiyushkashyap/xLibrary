@@ -18,4 +18,4 @@ Explore Topics:
  Now, you'll be presented with a delightful array of genres to explore. Pick the genre that piques your curiosity the most.
 
 Discover Books:
- As if by magic, the xLibrary will reveal a carefully curated selection of books from your chosen genre.
+ As if by magic, the xLibrary will reveal a carefully curated selection of books from your chosen genre...
